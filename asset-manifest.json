@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SaiShivaKumar174/Week8.git/static/css/main.ff02f4b5.css",
-    "main.js": "/SaiShivaKumar174/Week8.git/static/js/main.2723209c.js",
-    "static/js/453.aa967cea.chunk.js": "/SaiShivaKumar174/Week8.git/static/js/453.aa967cea.chunk.js",
-    "index.html": "/SaiShivaKumar174/Week8.git/index.html",
-    "main.ff02f4b5.css.map": "/SaiShivaKumar174/Week8.git/static/css/main.ff02f4b5.css.map",
-    "main.2723209c.js.map": "/SaiShivaKumar174/Week8.git/static/js/main.2723209c.js.map",
-    "453.aa967cea.chunk.js.map": "/SaiShivaKumar174/Week8.git/static/js/453.aa967cea.chunk.js.map"
+    "main.css": "/Week8/static/css/main.ff02f4b5.css",
+    "main.js": "/Week8/static/js/main.7cd4a98b.js",
+    "static/js/453.aa967cea.chunk.js": "/Week8/static/js/453.aa967cea.chunk.js",
+    "index.html": "/Week8/index.html",
+    "main.ff02f4b5.css.map": "/Week8/static/css/main.ff02f4b5.css.map",
+    "main.7cd4a98b.js.map": "/Week8/static/js/main.7cd4a98b.js.map",
+    "453.aa967cea.chunk.js.map": "/Week8/static/js/453.aa967cea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.2723209c.js"
+    "static/js/main.7cd4a98b.js"
   ]
 }
