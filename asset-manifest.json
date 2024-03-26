@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaiShivaKumar174/Week8.git/static/css/main.ff02f4b5.css",
+    "main.js": "/SaiShivaKumar174/Week8.git/static/js/main.2723209c.js",
+    "static/js/453.aa967cea.chunk.js": "/SaiShivaKumar174/Week8.git/static/js/453.aa967cea.chunk.js",
+    "index.html": "/SaiShivaKumar174/Week8.git/index.html",
+    "main.ff02f4b5.css.map": "/SaiShivaKumar174/Week8.git/static/css/main.ff02f4b5.css.map",
+    "main.2723209c.js.map": "/SaiShivaKumar174/Week8.git/static/js/main.2723209c.js.map",
+    "453.aa967cea.chunk.js.map": "/SaiShivaKumar174/Week8.git/static/js/453.aa967cea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.2723209c.js"
+  ]
+}
